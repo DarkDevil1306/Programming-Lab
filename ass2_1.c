@@ -1,3 +1,7 @@
+/*Write a program to find length of a given string.
+Code by 2020ITB028_RUPAYAN
+*/
+
 #include <stdio.h>
 int main()
  {
