@@ -1,5 +1,5 @@
 <h1> # Programming-Lab </h1>
----------------------------------
+--------------------------------------------
 <h3> ASSIGNMENT NO. 1 DATED 31 AUG,2021 </h3>
 1. Write a program to find length of a given string.
 2. 2. Write a program to reverse a a given string.
